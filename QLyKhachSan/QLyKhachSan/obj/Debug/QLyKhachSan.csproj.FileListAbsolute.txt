@@ -1,1 +1,2 @@
 c:\users\vuong long\documents\visual studio 2013\Projects\QLyKhachSan\QLyKhachSan\bin\Debug\QLyKhachSan.exe.config
+E:\TTNhom.Github\QLyKhachSan\QLyKhachSan\QLyKhachSan\bin\Debug\QLyKhachSan.exe.config
