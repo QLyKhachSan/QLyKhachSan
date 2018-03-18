@@ -1,4 +1,8 @@
 c:\users\vuong long\documents\visual studio 2013\Projects\QLyKhachSan\QLyKhachSan\bin\Debug\QLyKhachSan.exe.config
 E:\TTNhom.Github\QLyKhachSan\QLyKhachSan\QLyKhachSan\bin\Debug\QLyKhachSan.exe.config
 E:\Nhom.Github\QLyKhachSan\QLyKhachSan\QLyKhachSan\bin\Debug\QLyKhachSan.exe.config
+<<<<<<< HEAD
 C:\Users\admin\Documents\GitHub\QLyKhachSan\QLyKhachSan\QLyKhachSan\bin\Debug\QLyKhachSan.exe.config
+=======
+E:\Github\QLyKhachSan\QLyKhachSan\QLyKhachSan\bin\Debug\QLyKhachSan.exe.config
+>>>>>>> 6109454056403eedcd7b5efa571fad628c048b62
